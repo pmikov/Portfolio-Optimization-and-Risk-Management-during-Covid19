@@ -1,9 +1,9 @@
-# [Portfolio Optimization and Risk Management during Covid19 crisis](https://github.com/pmikov/Portfolio-Optimization-and-Risk-Management-during-Covid19/blob/master/MPT%20during%20COVID19.ipynb)
+### [Portfolio Optimization and Risk Management during Covid19 crisis](https://github.com/pmikov/Portfolio-Optimization-and-Risk-Management-during-Covid19/blob/master/MPT%20during%20COVID19.ipynb)
 
 Completed on 12-June-2020 as final project for "Math Concepts for Developers" course at Software University (May-June 2020)
 - course 1 of 4 of "Artificial Intelligence" specialization
 
-### The project consists of the following chapters:
+**The project consists of the following chapters:**
 1. Gathering Data - using Yahoo Finance API
 2. Calculating the expected return and covariance matrix
 3. Constructing the efficient frontier and finding our optimum portfolios
@@ -12,7 +12,7 @@ Completed on 12-June-2020 as final project for "Math Concepts for Developers" co
 6. Conclusion
 
 
-### The  "Math Concepts for Developers" course covers the following topics (4-hour live Lectures + 4-hour live Exercises & Labs):
+**The "Math Concepts for Developers" course covers the following topics (4-hour live Lectures + 4-hour live Exercises & Labs):**
 1. High School Math
 2. Basic Algebra
 3. Linear Algebra
