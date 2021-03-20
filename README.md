@@ -21,4 +21,6 @@ Completed on 12-June-2020 as final project for "Math Concepts for Developers" co
 6. Statistics
 7. Hypothesis Testing
 
+Repository with all live exercises and homework done for the course: https://github.com/pmikov/Math-Concepts-for-Developers-SoftUni---Exercises
+
 Certificate: https://softuni.bg/certificates/details/82705/f65c701a, 6.00/6.00, 105 out of 110 points
