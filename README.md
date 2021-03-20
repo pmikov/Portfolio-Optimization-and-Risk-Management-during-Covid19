@@ -21,4 +21,4 @@ Completed on 12-June-2020 as final project for "Math Concepts for Developers" co
 6. Statistics
 7. Hypothesis Testing
 
-Certificate: https://softuni.bg/certificates/details/82705/f65c701a (105 out of 110 points)
+Certificate: https://softuni.bg/certificates/details/82705/f65c701a, 6.00/6.00, 105 out of 110 points
