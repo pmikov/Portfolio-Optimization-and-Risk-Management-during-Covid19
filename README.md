@@ -12,7 +12,7 @@ Completed on 12-June-2020 as final project for "Math Concepts for Developers" co
 6. Conclusion
 
 
-**The "Math Concepts for Developers" course covers the following topics (4-hour live Lectures + 4-hour live Exercises & Labs):**
+**"Math Concepts for Developers" course at Software University covers the following topics (4-hour live Lectures + 4-hour live Exercises & Labs):**
 1. High School Math
 2. Basic Algebra
 3. Linear Algebra
